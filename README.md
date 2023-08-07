@@ -31,9 +31,6 @@ This repository creates a binary classification model to predict whether an orga
 3) Preprocess the dataset as in Step 1, and make any necessary adjustments that came out of optimising the model. (Target accuracy of 75%)
 4) Save and export the optimised model's weights to an HDF5 file named "AlphabetSoupCharity_Optimisation.h5".
 
-### Step 4: Write a Report on the Neural Network Model
-Please refer to the attached PDF file within the repository called "AlphabetSoupAnalysisReport.pdf"
-
 ## Dataset
 The dataset used for this project is available in the "charity_data.csv" file. The CSV file contains information about organisations that received funding from the Alphabet Soup foundation, along with various features and metadata about each organisation. A link to this file can be found in the .ipynb files.
 
